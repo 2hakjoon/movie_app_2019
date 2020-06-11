@@ -6,7 +6,7 @@
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
+    "react": "^16.13.1",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.0.1"
@@ -32,5 +32,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nomadcoders.github.io/movie_app_2019/"
+  "homepage": "https://hakjoon0223.github.io/movie_app_2019/"
 }
